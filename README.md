@@ -27,3 +27,13 @@ This folder contains four projects:
 2. Find global min of a function;
 3. Find min of a function;
 4. Fit an n-degree polynomial to the function.
+
+📂[Numerical data analysis](https://github.com/Amelet/DataAnalysis/tree/main/numerical_data_algorithms)
+Topics:<br>
+1. Linear models:
+a) Least squares for linear regression;<br>
+b) Linear classification using sklearn;<br>
+c) Linear regression using sklearn;<br>
+d) normal equation for linear regression;<br>
+e) stochastic gradient descent<br>
+
