@@ -37,3 +37,6 @@ c) Linear regression using sklearn;<br>
 d) normal equation for linear regression;<br>
 e) stochastic gradient descent<br>
 
+2. Cross-validation strategies:<br>
+
+
