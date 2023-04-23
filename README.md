@@ -29,8 +29,8 @@ This folder contains four projects:
 4. Fit an n-degree polynomial to the function.
 
 📂[Numerical data analysis](https://github.com/Amelet/DataAnalysis/tree/main/numerical_data_algorithms)
-Topics:<br>
-1. Linear models:
+Topics:
+1. Linear models:<br>
 a) Least squares for linear regression;<br>
 b) Linear classification using sklearn;<br>
 c) Linear regression using sklearn;<br>
