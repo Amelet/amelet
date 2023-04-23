@@ -43,4 +43,9 @@ e) stochastic gradient descent<br>
 
 2. Cross-validation strategies:<br>
 
-
+## JavaScript projects
+1. [TicTacToe](https://amelet.github.io/tictactoe/)
+2. [Etch-a-Sketch](https://amelet.github.io/Etch-a-sketch/)
+3. [Calculator](https://amelet.github.io/Calculator)
+4. [Library](https://amelet.github.io/library/)
+5. [SignUp form](https://amelet.github.io/sign-up-form/)
