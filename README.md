@@ -20,4 +20,10 @@ I have a diverse background in physics, chemistry, and biology, with experience 
 ![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=0076A8)
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 
-
+## 📂Data Analysis (projects)
+📂[Mathematical analysis](https://github.com/Amelet/DataAnalysis/blob/main/mathematical_analysis/readme.md)
+This folder contains four projects:
+1. Central Limit Theorem;
+2. Find global min of a function;
+3. Find min of a function;
+4. Fit an n-degree polynomial to the function.
