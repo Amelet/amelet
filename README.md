@@ -3,7 +3,7 @@
 I'm a Data Analyst with 3+ years of experience in data-driven research. Passionate about analyzing data to answer complex questions and always looking for challenging projects to continue learning and growing.
 
 🧬 Author of scientific reports on DNA's 3D structure, applying network science and statistical analysis tools<br>
-1. [Mapping the semi-nested community structure of 3D chromosome contact networks](https://www.biorxiv.org/content/10.1101/2022.06.24.497560v2.full](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185) 
+1. [Mapping the semi-nested community structure of 3D chromosome contact networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185) 
 2. [Mapping robust multiscale communities in chromosome contact networks](https://arxiv.org/abs/2212.08456)
 3. [Exploring 3D community inconsistency in human chromosome contact networks](https://arxiv.org/abs/2302.14684)<br>
 
