@@ -5,7 +5,7 @@ I'm a Data Analyst with 3+ years of experience in data-driven research. Passiona
 🧬 Author of scientific reports on DNA's 3D structure. The following papers demonstrate how we characterize DNA's 3D structure applying network science and statistical analysis tools<br>
 1. [Mapping the semi-nested community structure of 3D chromosome contact networks (June 2023, PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185) || [Github](https://github.com/lizanalab/mapping2023bernenko)
 2. [Mapping robust multiscale communities in chromosome contact networks (August 2023, Scientific Reports)](https://www.nature.com/articles/s41598-023-39522-7)
-3. [Exploring 3D community inconsistency in human chromosome contact networks](https://arxiv.org/abs/2302.14684)<br>
+3. [Exploring 3D community inconsistency in human chromosome contact networks (August 2023, Journal of Physics: Complexity)](https://iopscience.iop.org/article/10.1088/2632-072X/acef9d)<br>
 
 I also have a diverse background in physics, chemistry, and biology, with experience in various roles:<br>
 🔬 Built an experimental laser setup to study electronic properties of semiconductors<br>
