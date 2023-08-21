@@ -3,7 +3,7 @@
 I'm a Data Analyst with 3+ years of experience in data-driven research. Passionate about analyzing data to answer complex questions and always looking for challenging projects to continue learning and growing.
 
 🧬 Author of scientific reports on DNA's 3D structure. The following papers demonstrate how we characterize DNA's 3D structure applying network science and statistical analysis tools<br>
-1. [Mapping the semi-nested community structure of 3D chromosome contact networks (June 2023, PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185) 
+1. [Mapping the semi-nested community structure of 3D chromosome contact networks (June 2023, PLOS Computational Biology)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011185) || [Github](https://github.com/lizanalab/mapping2023bernenko)
 2. [Mapping robust multiscale communities in chromosome contact networks (August 2023, Scientific Reports)](https://www.nature.com/articles/s41598-023-39522-7)
 3. [Exploring 3D community inconsistency in human chromosome contact networks](https://arxiv.org/abs/2302.14684)<br>
 
@@ -25,15 +25,17 @@ I also have a diverse background in physics, chemistry, and biology, with experi
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 
 ## 📂Data Analysis (projects)
-📂[Mathematical analysis](https://github.com/Amelet/DataAnalysis/blob/main/mathematical_analysis/readme.md)
-This folder contains four projects:
-1. Central Limit Theorem;
-2. Find global min of a function;
-3. Find min of a function;
-4. Fit an n-degree polynomial to the function.
+📂[Neural Network and Deep Learning](https://github.com/Amelet/Neural-Networks-and-Deep-Learning/tree/main)<br>
+📂[Deep Learning with Tensorflow](https://github.com/Amelet/DeepLearning_TensorFLow)<br>
+📂[Mathematical analysis](https://github.com/Amelet/DataAnalysis/blob/main/mathematical_analysis/readme.md)<br>
+This folder contains four projects:<br>
+1. Central Limit Theorem;<br>
+2. Find global min of a function;<br>
+3. Find min of a function;<br>
+4. Fit an n-degree polynomial to the function.<br>
 
-📂[Numerical data analysis](https://github.com/Amelet/DataAnalysis/tree/main/numerical_data_algorithms)
-Topics:
+📂[Numerical data analysis](https://github.com/Amelet/DataAnalysis/tree/main/numerical_data_algorithms)<br>
+Topics:<br>
 1. Linear models:<br>
 a) Least squares for linear regression;<br>
 b) Linear classification using sklearn;<br>
